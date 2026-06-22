@@ -1,6 +1,6 @@
 {
   "name": "ultraship",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "description": "\"ULTRASHIP\" Claude Code plugin \u2014 39 skills, 33 tools, 11 agents for ship-ready workflows: planning, review, pentesting, safety guardrails, canary monitoring, SEO/AI-readiness check, penetration testing, code review, competitive analysis, incident response. 1 dependency. 180 tests. MIT.",
   "main": "src/index.js",
   "scripts": {
